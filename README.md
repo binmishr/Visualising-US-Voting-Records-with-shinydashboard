@@ -6,7 +6,7 @@ You need to view the file in "Read Mode" to see the contents properly after down
 Adavis Package - A Brief Introduction
 ======================================
 
-A visual exploration of the Americans for Democratic Action (ADA) Voting Scores. The Shiny app is hosted at https://gokhan.shinyapps.io/adavis/
+A visual exploration of the Americans for Democratic Action (ADA) Voting Scores. 
 
 Description
 ============
